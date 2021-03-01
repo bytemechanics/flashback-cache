@@ -7,7 +7,7 @@
 		<version>2.2.0</version>
 	</parent>
 	<artifactId>flashback-cache</artifactId>
-	<version>1.0.0-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<packaging>jar</packaging>
 	<name>Flashback Cache</name>
 	<description>A simple zero-dependencies non-distributed TTL in-memory cache </description>

@@ -26,7 +26,7 @@ import org.bytemechanics.cache.flashback.internal.TTLCacheRegistry;
 /**
  * Extends Cache Service adapter in order to provide some utility methods to create time-to-life caches
  * In order to use this in Spring, please create your own implementation and annotate it or extend DefaultCacheServiceImpl 
- * @see DefaultCacheServiceimpl
+ * @see DefaultCacheServiceImpl
  * @author afarre
  */
 public interface TTLCacheService extends CacheService {

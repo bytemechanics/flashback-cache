@@ -25,7 +25,7 @@ import org.bytemechanics.cache.flashback.internal.CacheRegistry;
 /**
  * Cache Service adapter to manage and store caches
  * In order to use this in Spring, please create your own implementation and annotate it or extend DefaultCacheServiceImpl 
- * @see DefaultCacheServiceimpl
+ * @see DefaultCacheServiceImpl
  * @author afarre
  */
 public interface CacheService {
